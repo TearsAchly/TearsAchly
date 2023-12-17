@@ -8,7 +8,10 @@
   
 --------
 
-### 🔧 Technologies & Tools &nbsp;&nbsp;|&nbsp;&nbsp; 🌟 Certifications & Achievements
+
+
+### 🔧 Technologies & Tools &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;  Certifications & Achievements 🌟
+
 
 ##### 🧑🏼‍💻 Web Developer
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
