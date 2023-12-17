@@ -8,7 +8,7 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 
 ---
 
-## <div align="center">🔧 Technologies & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟 Certifications & Achievements</div>
+## <div>🔧 Technologies & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟 Certifications & Achievements</div>
 
 ### 🧑🏼‍💻 Web Developer
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
