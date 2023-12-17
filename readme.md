@@ -1,6 +1,6 @@
 # Hi, I'm TearsAchly 👋
 
-🎓 Computer and Network Engineering Graduate  
+🎓 Computer and Network Engineering Graduate  [![TearsAchly's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=tokyonight)](https://wakatime.com/@TearsAchly)
 💻 Interested in Programming, Networking, and Cybersecurity<br>
 🤝 Let's connect:
 [Email](mailto:xlucifer0734@gmail.com)<br>
