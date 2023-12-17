@@ -37,7 +37,7 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 
 ##### 📚 Currently Learning
 [![Webpack](https://img.shields.io/badge/-Webpack-blueviolet?style=flat-square&logo=Webpack&logoColor=white)](https://webpack.js.org/)
-[![Ajax](https://img.shields.io/badge/-Ajax-black?style=flat-square&logo=Ajax&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+[![Ajax](https://img.shields.io/badge/-Ajax-black?style=flat-square&logo=Ajax&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 [![npm](https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ##### 📜 Certifications & Achievements
