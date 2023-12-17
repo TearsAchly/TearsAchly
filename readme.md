@@ -15,6 +15,7 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx&logoColor=white)](https://nginx.org/)
 [![Postman](https://img.shields.io/badge/-Postman-grey?style=flat-square&logo=Postman&logoColor=orange)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-blueviolet?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
@@ -33,8 +34,11 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 
 ##### 🌐 Networking
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-brightgreen?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
-[![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx&logoColor=white)](https://nginx.org/)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-blue?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
+[![Windows Subsystem for Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+
+
 
 ##### 📚 Currently Learning
 [![Webpack](https://img.shields.io/badge/-Webpack-blueviolet?style=flat-square&logo=Webpack&logoColor=white)](https://webpack.js.org/)
