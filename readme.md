@@ -53,10 +53,10 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 [![Responsive Web Design](https://img.shields.io/badge/-Responsive_Web_Design-brightgreen?style=flat-square)](https://www.freecodecamp.org/certification/TearsAchly/responsive-web-design)
 
 <a href="https://github.com/TearsAchly/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&card_width=320&theme=dark" />
 </a>
 <a href="https://github.com/TearsAchly/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 
