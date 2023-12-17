@@ -16,6 +16,8 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx&logoColor=white)](https://nginx.org/)
+[![DB Browser](https://img.shields.io/badge/-DB%20Browser-blue?style=flat-square&logo=DB%20Browser&logoColor=white)](https://sqlitebrowser.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 [![Postman](https://img.shields.io/badge/-Postman-grey?style=flat-square&logo=Postman&logoColor=orange)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-blueviolet?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
