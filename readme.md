@@ -5,7 +5,7 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
-##### 🔧 Technologies & Tools | Certifications & Achievements 🌟
+## 🔧 Technologies & Tools | Certifications & Achievements 🌟
 
 #### 🧑🏼‍💻 Web Developer
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
