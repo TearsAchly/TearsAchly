@@ -1,14 +1,13 @@
 # Hi, I'm TearsAchly 👋
 
 🎓 Computer and Network Engineering Graduate 
-💻 Interested in Programming, Networking, and Cybersecurity<br>
+💻 Interested in Programming, Networking, and Cybersecurity
 🤝 Let's connect:
-[Email](mailto:xlucifer0734@gmail.com)<br>
+[Email](mailto:xlucifer0734@gmail.com)
 🎮 Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
   
+#### 🔧 Technologies & Tools|Certifications & Achievements 🌟
 
-
-#### 🔧 Technologies & Tools &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;  Certifications & Achievements 🌟
 ###### 🧑🏼‍💻 Web Developer
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -45,7 +44,6 @@
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ###### 📜 Certifications & Achievements </ RoadMap >
-
 [![Web Programming Basics](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
 [![JavaScript Programming Basics](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
 [![Structured Query Language (SQL) Basics](https://img.shields.io/badge/-SQL_Basics-E34F26?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
@@ -63,5 +61,3 @@
 <a href="https://github.com/TearsAchly/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
-
-
