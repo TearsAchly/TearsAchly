@@ -1,5 +1,5 @@
 # Hi, I'm TearsAchly 👋
-<p align="left"> <p align="right"> [![TearsAchly's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=tokyonight)](https://wakatime.com/@TearsAchly) </p>
+<p align="left"> 
 🎓 Computer and Network Engineering Graduate 
 💻 Interested in Programming, Networking, and Cybersecurity<br>
 🤝 Let's connect:
