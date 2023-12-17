@@ -1,11 +1,11 @@
 # Hi, I'm TearsAchly 👋
-
-🎓 Computer and Network Engineering Graduate  [![TearsAchly's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=tokyonight)](https://wakatime.com/@TearsAchly)
+<p align="left"> <p align="right"> [![TearsAchly's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=tokyonight)](https://wakatime.com/@TearsAchly) </p>
+🎓 Computer and Network Engineering Graduate 
 💻 Interested in Programming, Networking, and Cybersecurity<br>
 🤝 Let's connect:
 [Email](mailto:xlucifer0734@gmail.com)<br>
 Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
-
+</p>
 ---
 
 ### 🔧 Technologies & Tools &nbsp;&nbsp;|&nbsp;&nbsp; 🌟 Certifications & Achievements
