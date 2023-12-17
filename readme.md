@@ -46,16 +46,17 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ##### 📜 Certifications & Achievements
-[![Cloud Practitioner Essentials AWS](https://img.shields.io/badge/-Cloud_Practitioner_Essentials_AWS-F0DB4F?style=flat-square)](https://www.dicoding.com/certificates/07Z68RWMRXQR)
+
 [![Web Programming Basics](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
 [![JavaScript Programming Basics](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
-[![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
 [![Structured Query Language (SQL) Basics](https://img.shields.io/badge/-SQL_Basics-E34F26?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
-[![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-F39C12?style=flat-square)](https://www.dicoding.com/certificates/MRZMLQ2MRXYQ)
-[![Front-End for Beginners](https://img.shields.io/badge/-Front_End_for_Beginners-F39C12?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
-[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Python Programming Basics](https://img.shields.io/badge/-Python_Programming-4CAF50?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQNKQZ65)
+[![Front-End for Beginners](https://img.shields.io/badge/-Front_End_for_Beginners-F39C12?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
 [![Responsive Web Design](https://img.shields.io/badge/-Responsive_Web_Design-4CAF50?style=flat-square)](https://www.freecodecamp.org/certification/TearsAchly/responsive-web-design)
+[![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-F39C12?style=flat-square)](https://www.dicoding.com/certificates/MRZMLQ2MRXYQ)
+[![Cloud Practitioner Essentials AWS](https://img.shields.io/badge/-Cloud_Practitioner_Essentials_AWS-F0DB4F?style=flat-square)](https://www.dicoding.com/certificates/07Z68RWMRXQR)
+[![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
+[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 
 <a href="https://github.com/TearsAchly/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&card_width=320&theme=dark" />
