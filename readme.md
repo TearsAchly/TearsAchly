@@ -35,7 +35,7 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 ##### 🌐 Networking
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-brightgreen?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-blue?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
-[![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows-Subsystem-for-Linux-orange?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows_Subsystem_for_Linux-orange?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
 
