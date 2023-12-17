@@ -6,7 +6,7 @@
 💻 Interested in Programming, Networking, and Cybersecurity<br>
 🤝 Let's connect:
 [Email](mailto:xlucifer0734@gmail.com)<br>
-Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
+🎮 Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
   
 </p>
 
@@ -63,14 +63,10 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 
 <a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&card_width=320&theme=github_dark" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
-<a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&langs_count=8&card_width=50px&theme=dark" />
-</a>
-
 
 
