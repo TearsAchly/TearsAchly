@@ -2,13 +2,12 @@
 
 🎓 Computer and Network Engineering Graduate 
 💻 Interested in Programming, Networking, and Cybersecurity
-🤝 Let's connect:
-[Email](mailto:xlucifer0734@gmail.com)
-🎮 Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
-  
-#### 🔧 Technologies & Tools|Certifications & Achievements 🌟
+🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
+🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
-###### 🧑🏼‍💻 Web Developer
+## 🔧 Technologies & Tools | Certifications & Achievements 🌟
+
+### 🧑🏼‍💻 Web Developer
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -22,7 +21,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)](https://vercel.com/)
 
-###### 🕷️ Ethical Hacking
+### 🕷️ Ethical Hacking
 [![Linux](https://img.shields.io/badge/-Linux-000080?style=flat-square&logo=Linux&logoColor=white)](https://www.linux.org/)
 [![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=Kali-Linux&logoColor=white)](https://www.kali.org/)
 [![Web Shells](https://img.shields.io/badge/-Web_Shells-FF4136?style=flat-square&logo=Shell&logoColor=white)](https://owasp.org/www-community/attacks/Web_Shell)
@@ -32,18 +31,18 @@
 [![wfuzz](https://img.shields.io/badge/-wfuzz-91CC61?style=flat-square&logo=wfuzz&logoColor=white)](https://github.com/xmendez/wfuzz)
 [![WPScan](https://img.shields.io/badge/-WPScan-444?style=flat-square&logo=WPScan&logoColor=white)](https://wpscan.com/)
 
-###### 🌐 Networking
+### 🌐 Networking
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows_Subsystem_for_Linux-FF7F50?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
-###### 📚 Currently Learning
+### 📚 Currently Learning
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![Ajax](https://img.shields.io/badge/-Ajax-61DAFB?style=flat-square&logo=Ajax&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
-###### 📜 Certifications & Achievements </ RoadMap >
+### 📜 Certifications & Achievements </ RoadMap >
 [![Web Programming Basics](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
 [![JavaScript Programming Basics](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
 [![Structured Query Language (SQL) Basics](https://img.shields.io/badge/-SQL_Basics-E34F26?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
