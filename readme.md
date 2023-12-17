@@ -69,7 +69,7 @@ Want to play Mobile Legends Bang Bang together? follow my account TearsAchlyツ
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 <a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=tokyonight&langs_count=8&card_width=100&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=tokyonight&langs_count=8&card_width=50&theme=dark" />
 </a>
 
 
