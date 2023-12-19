@@ -5,6 +5,8 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
+[![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly)](https://github.com/TearsAchly/)
+
 ## 🔧 Technologies & Tools | Certifications & Achievements 🌟
 
 #### 🧑🏼‍💻 Web Development
