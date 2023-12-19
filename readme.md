@@ -6,8 +6,18 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
-| [![TearsAchly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues)](https://github.com/TearsAchly) | [![TearsAchly's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark)](https://github.com/TearsAchly) | [![TearsAchly's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=default&theme=dark&hide_progress=true)](https://wakatime.com/@TearsAchly) |
-| :---: | :---: | :---: |
+
+<div align="left">
+  <a href="https://github.com/TearsAchly" style="float:left; width:40%;">
+    <img height=120 src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
+  </a>
+  <a href="https://wakatime.com/@TearsAchly" style="float:left; width:40%;">
+    <img height=120 src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=default&theme=dark&hide_progress=true" />
+  </a>
+  <a href="https://github.com/TearsAchly" style="float:left; width:20%;">
+    <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark" />
+  </a>
+</div>
 
 
 
