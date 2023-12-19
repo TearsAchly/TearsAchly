@@ -6,7 +6,7 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
-<div display="flex">
+<div align="left">
   <a href="https://github.com/TearsAchly">
     <img height=115 width=auto src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
   </a>
