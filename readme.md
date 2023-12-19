@@ -6,17 +6,13 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
-<a href="https://github.com/TearsAchly/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?150=TearsAchly />
+<a href="https://github.com/TearsAchly">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly" />
 </a>
-    
-<a href="https://github.com/TearsAchly/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/150?username=TearsAchly&=compact&langs_count=8&150=320" />
+<a href="https://github.com/TearsAchly">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=100%" />
 </a>
 
-<a href="https://github.com/TearsAchly/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/150?username=TearsAchly&=compact&langs_count=8&150=320" />
-</a>
 
 ## 🔧 Technologies150& Tools | Certifications & Achievements 🌟
 
