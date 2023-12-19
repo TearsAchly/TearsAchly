@@ -1,15 +1,20 @@
 ## Hi, I'm TearsAchly 👋
 
-<!-- Informasi profil -->
+<a href="https://github.com/TearsAchly/">
+<!--   <img height=200 align="center" src="" /> -->
+  <!-- Informasi profil -->
 - 🎓 Computer and Network Engineering Graduate 
 - 💻 Interested in Programming, Networking, and Cybersecurity
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
+</a>&nbsp;&nbsp;
+<a href="https://github.com/TearsAchly/">
+  <img height=200 align="center" src=" [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
+" />
+</a>
 
-<!-- WakaTime stats di sebelah kanan -->
-<div align="right">
-  [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
-</div>
+
+
 
 
 
@@ -62,9 +67,4 @@
 [![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 
-<a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="" />
-</a>
+
