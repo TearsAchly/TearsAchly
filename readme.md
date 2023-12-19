@@ -12,6 +12,10 @@
 <a href="https://github.com/TearsAchly">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&theme=github_dark&layout=compact&langs_count=8&card_width=100%" />
 </a>
+<a href="https://wakatime.com/@TearsAchly">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=compact&theme=github_dark" />
+</a>
+
 
 
 ## 🔧 Technologies150& Tools | Certifications & Achievements 🌟
