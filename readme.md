@@ -1,11 +1,11 @@
 ## Hi, I'm TearsAchly 👋
-| About Me | Stats |
+| | |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-|  🎓 Computer and Network Engineering Graduate| [![TearsAchly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TearsAchly&show_icons=true&count_private=true&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-|  💻 Interested in Programming, Networking, and Cybersecurity | [![TearsAchly's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&card_width=100%&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-|  🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com) | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://wakatime.com/@TearsAchly)
-  
-🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ 
+| - 🎓 Computer and Network Engineering Graduate| [![TearsAchly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TearsAchly&show_icons=true&count_private=true&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| - 💻 Interested in Programming, Networking, and Cybersecurity | [![TearsAchly's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&card_width=80%&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com) | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://wakatime.com/@TearsAchly)
+| - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://wakatime.com/@TearsAchly)
+
 
 ## 🔧 Technologies & Tools | Certifications & Achievements 🌟
 
