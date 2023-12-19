@@ -13,6 +13,7 @@
   <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=github_dark&card_width=320" />
 </a>
 
+---
 ## 🔧 Technologies150& Tools | Certifications & Achievements 🌟
 
 #### 🧑🏼‍💻 Web Development
