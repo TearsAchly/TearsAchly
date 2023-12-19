@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
 </a>
  &nbsp;&nbsp;&nbsp; <!-- Menambahkan spasi -->
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/TearsAchly/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=github_dark&card_width=320" />
 </a>
 
