@@ -1,8 +1,8 @@
 ## Hi, I'm TearsAchly 👋
 |  |  |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| - 🎓 Computer and Network Engineering Graduate
-| - 💻 Interested in Programming, Networking, and Cybersecurity | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
+| - 🎓 Computer and Network Engineering Graduate| [![TearsAchly's WakaTime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact](https://github-readme-stats.vercel.app/api?username=TearsAchly&card_width=320&theme=github_dark))](https://github.com/TearsAchly/)
+| - 💻 Interested in Programming, Networking, and Cybersecurity | [![TearsAchly's WakaTime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=github_dark))](https://github.com/TearsAchly/)
 | - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com) |  [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
 | - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
 
@@ -58,8 +58,8 @@
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 
 <a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&card_width=320&theme=github_dark" />
+  <img height=200 align="center" src="" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  <img height=200 align="center" src="" />
 </a>
