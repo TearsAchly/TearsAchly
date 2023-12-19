@@ -7,13 +7,13 @@
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
 <a href="https://github.com/TearsAchly/github-readme-stats">
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=github_dark&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=github_dark&card_width=320" />
 </a>
 
-<div>
+
 ## 🔧 Technologies150& Tools | Certifications & Achievements 🌟
 
 #### 🧑🏼‍💻 Web Development
@@ -62,5 +62,5 @@
 [![Cloud Practitioner Essentials AWS](https://img.shields.io/badge/-Cloud_Practitioner_Essentials_AWS-F0DB4F?style=flat-square)](https://www.dicoding.com/certificates/07Z68RWMRXQR)
 [![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
-</div>
+
 
