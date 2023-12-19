@@ -6,21 +6,19 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/TearsAchly/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?150=TearsAchly />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+    
+<a href="https://github.com/TearsAchly/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/150?username=TearsAchly&=compact&langs_count=8&150=320" />
 </a>
 
-## 🔧 Technologies & Tools | Certifications & Achievements 🌟
+<a href="https://github.com/TearsAchly/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/150?username=TearsAchly&=compact&langs_count=8&150=320" />
+</a>
+
+## 🔧 Technologies150& Tools | Certifications & Achievements 🌟
 
 #### 🧑🏼‍💻 Web Development
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
