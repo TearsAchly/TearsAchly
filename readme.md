@@ -1,17 +1,10 @@
 ## Hi, I'm TearsAchly 👋
 
-<a href="https://github.com/TearsAchly/">
-<!--   <img height=200 align="center" src="" /> -->
-  <!-- Informasi profil -->
-- 🎓 Computer and Network Engineering Graduate 
-- 💻 Interested in Programming, Networking, and Cybersecurity
-- 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
-- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
-</a>&nbsp;&nbsp;
-<a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src=" [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
-" />
-</a>
+User
+- 🎓 Computer and Network Engineering Graduate                                         |
+- 💻 Interested in Programming, Networking, and Cybersecurity                          |
+- 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)                              |
+- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ      |
 
 
 
