@@ -8,10 +8,10 @@
 
 <div align="left">
   <a href="https://github.com/TearsAchly">
-    <img height=200 width=50% src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
+    <img height=200 width=35% src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
   </a>
   <a href="https://github.com/TearsAchly">
-    <img height=200 width=25% src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark" />
+    <img height=200 width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark" />
   </a>
   <a href="https://wakatime.com/@TearsAchly">
     <img height=200 width=33% src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=default&theme=dark&hide_progress=true" />
