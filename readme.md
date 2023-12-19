@@ -9,7 +9,7 @@
 
 <div align="left">
   <a href="https://github.com/TearsAchly" style="float:left; width:40%;">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
+    <img height=150 src="" />
   </a>
   <a href="https://wakatime.com/@TearsAchly" style="float:left; width:40%;">
     <img height=150 src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=default&theme=dark&hide_progress=true" />
@@ -18,6 +18,13 @@
     <img height=297 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark" />
   </a>
 </div>
+
+<a href="https://github.com/Tearsachly/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tearsachly" />
+</a>
+<a href="https://github.com/Tearsachly/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
+</a>
 
 
 
