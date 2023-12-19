@@ -8,13 +8,13 @@
 
 <div dislay="flex">
   <a href="https://github.com/TearsAchly">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
   </a>
   <a href="https://github.com/TearsAchly">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&card_width=100%&theme=dark" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&card_width=100%&theme=dark" />
   </a>
   <a href="https://wakatime.com/@TearsAchly">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=compact&theme=dark8&card_width=10" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=compact&theme=dark8&card_width=100%" />
   </a>
 </div>
 
