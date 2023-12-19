@@ -15,7 +15,7 @@
     <img height=150 src="https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&layout=default&theme=dark&hide_progress=true" />
   </a>
   <a align ="center" href="https://github.com/TearsAchly" ">
-    <img height=1500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark" />
+    <img height=297 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark" />
   </a>
 </div>
 
