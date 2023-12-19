@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://github.com/TearsAchly">
-    <img height=115 width=33% src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
+    <img height=115 width=100% src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" />
   </a>
   <a href="https://github.com/TearsAchly">
     <img height=115 width=33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearsAchly&layout=compact&langs_count=8&theme=dark" />
