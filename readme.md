@@ -15,7 +15,7 @@
 </a>
 
 
-## 🔧 Technologies150& Tools | Certifications & Achievements 🌟
+## 🔧 Technologies Tools | Certifications & Achievements 🌟
 
 #### 🧑🏼‍💻 Web Development
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
