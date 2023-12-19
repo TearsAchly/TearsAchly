@@ -2,9 +2,9 @@
 |  |  |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | - 🎓 Computer and Network Engineering Graduate
-| - 💻 Interested in Programming, Networking, and Cybersecurity | | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
-| - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com) | | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
-| - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ | | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
+| - 💻 Interested in Programming, Networking, and Cybersecurity | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
+| - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com) |  [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
+| - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ | [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
 
 
 
