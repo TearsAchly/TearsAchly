@@ -1,22 +1,16 @@
 ## Hi, I'm TearsAchly 👋
 
-<!-- Container untuk tata letak bersebelahan -->
-<div style="display: flex; justify-content: space-between;">
+<!-- Informasi profil -->
+- 🎓 Computer and Network Engineering Graduate 
+- 💻 Interested in Programming, Networking, and Cybersecurity
+- 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
+- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
-  <!-- Bagian informasi profil -->
-  <div style="flex: 1;">
-    - 🎓 Computer and Network Engineering Graduate 
-    - 💻 Interested in Programming, Networking, and Cybersecurity
-    - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
-    - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
-  </div>
-
-  <!-- Bagian WakaTime stats -->
-  <div style="flex: 1;">
-    [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
-  </div>
-
+<!-- WakaTime stats di sebelah kanan -->
+<div align="right">
+  [![TearsAchly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TearsAchly&theme=dark&layout=compact)](https://github.com/TearsAchly/)
 </div>
+
 
 ## 🔧 Technologies & Tools | Certifications & Achievements 🌟
 
