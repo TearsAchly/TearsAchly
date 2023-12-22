@@ -7,9 +7,9 @@
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ<br>
 [![wakatime](https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg)](https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark)](https://github.com/TearsAchly/github-readme-stats)
+[![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Stats&query=%24.totalStars&url=https%3A%2F%2Fraw.githubusercontent.com%2FTearsAchly%2Fgithub-readme-stats%2Fmaster%2Fdata%2Ftearsachly.json)](https://github.com/TearsAchly/github-readme-stats)
 &nbsp;&nbsp;&nbsp; <!-- Adding some space -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&theme=github_dark&card_width=320)](https://github.com/TearsAchly/)
+[![Top Languages](https://img.shields.io/badge/dynamic/json?color=green&label=Top%20Languages&query=%24.totalBytes&url=https%3A%2F%2Fraw.githubusercontent.com%2FTearsAchly%2Fgithub-readme-stats%2Fmaster%2Fdata%2Ftearsachly.json)](https://github.com/TearsAchly/)
 
 
 ## 🔧 Technologies Tools | Certifications & Achievements 🌟
