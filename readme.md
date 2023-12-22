@@ -6,10 +6,22 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ 
 
-[![wakatime](https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg)](https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32)
-
+User
+<a href="https://github.com/TearsAchly/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
+</a>
+ &nbsp;&nbsp;&nbsp; <!-- Menambahkan spasi -->
+<a href="https://github.com/TearsAchly/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&theme=github_dark&card_width=320" />
+</a>
 
 ## 🔧 Technologies Tools | Certifications & Achievements 🌟
+
+<p align="center">
+  <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
+    <img src="https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg" alt="Wakatime Badge">
+  </a>
+</p>
 
 #### 🧑🏼‍💻 Web Development
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
