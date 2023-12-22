@@ -4,16 +4,12 @@
 - 🎓 Computer and Network Engineering Graduate                                         
 - 💻 Interested in Programming, Networking, and Cybersecurity                          
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
-- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
+- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ<br>
 [![wakatime](https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg)](https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32)
 
-<a href="https://github.com/TearsAchly/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
-</a>
- &nbsp;&nbsp;&nbsp; <!-- Menambahkan spasi -->
-<a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&theme=github_dark&card_width=320" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark)](https://github.com/TearsAchly/github-readme-stats)
+&nbsp;&nbsp;&nbsp; <!-- Adding some space -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&theme=github_dark&card_width=320)](https://github.com/TearsAchly/)
 
 
 ## 🔧 Technologies Tools | Certifications & Achievements 🌟
