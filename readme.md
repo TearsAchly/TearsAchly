@@ -4,9 +4,11 @@
 - 🎓 Computer and Network Engineering Graduate                                         
 - 💻 Interested in Programming, Networking, and Cybersecurity                          
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
-- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ <br>
+- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ 
+
 [![wakatime](https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg)](https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32)
-[GitHub Language Stats for TearsAchly](https://github.com/TearsAchly?tab=repositories)
+
+
 ## 🔧 Technologies Tools | Certifications & Achievements 🌟
 
 #### 🧑🏼‍💻 Web Development
