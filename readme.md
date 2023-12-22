@@ -6,8 +6,7 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 - 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ <br>
 [![wakatime](https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg)](https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32)
-
-[![GitHub top language](https://img.shields.io/github/languages/top/TearsAchly/github-readme-stats)](https://github.com/TearsAchly/github-readme-stats)
+[![Top Languages](https://img.shields.io/endpoint?url=https://your-server.com/api/top-languages)](https://github.com/TearsAchly/)
 
 
 
