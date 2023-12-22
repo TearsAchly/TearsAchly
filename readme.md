@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
-    <img src="https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg" alt="Wakatime Badge">
+    <img src="https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg?style=for-the-badge" alt="Wakatime Badge">
   </a>
 </p>
 
