@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=8&theme=github_dark&card_width=320" />
 </a>
 
-## 🔧 Technologies Tools | Certifications & Achievements 🌟
+## 🔧 Tech-Tools & Certs-Achv 🌟
 
 <p align="center">
   <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
