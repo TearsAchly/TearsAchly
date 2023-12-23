@@ -4,7 +4,13 @@
 - 🎓 Computer and Network Engineering Graduate                                         
 - 💻 Interested in Programming, Networking, and Cybersecurity                          
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
-- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ 
+- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
+
+#### 📚 Currently Learning
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
+[![Ajax](https://img.shields.io/badge/-Ajax-61DAFB?style=flat-square&logo=Ajax&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
 
 <a href="https://github.com/TearsAchly/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
@@ -50,11 +56,6 @@
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows_Subsystem_for_Linux-FF7F50?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
-
-#### 📚 Currently Learning
-[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
-[![Ajax](https://img.shields.io/badge/-Ajax-61DAFB?style=flat-square&logo=Ajax&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 #### 📜 Certifications & Achievements 
 [![Web Programming Basics](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
