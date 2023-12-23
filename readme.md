@@ -17,7 +17,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
 </a><!-- Menambahkan spasi -->
 <a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=donut&langs_count=20&theme=github_dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=donut&langs_count=20&theme=github_dark&card_width=600" />
 </a>
 
 ## 🔧 Tech-Tools & Certs-Achv 🌟
