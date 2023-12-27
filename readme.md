@@ -1,6 +1,5 @@
 ## Hi, I'm TearsAchly 👋
 
-
 - 🎓 Computer and Network Engineering Graduate                                         
 - 💻 Interested in Programming, Networking, and Cybersecurity                          
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
@@ -12,13 +11,6 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![Ajax](https://img.shields.io/badge/-Ajax-61DAFB?style=flat-square&logo=Ajax&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
-
-<a href="https://github.com/TearsAchly/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TearsAchly&theme=github_dark" />
-</a><!-- Menambahkan spasi -->
-<a href="https://github.com/TearsAchly/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TearsAchly&layout=compact&langs_count=20&theme=github_dark&card_width=360" />
-</a>
 
 ## 🔧 Tech-Tools & Certs-Achv 🌟
 
