@@ -3,7 +3,6 @@
 - 🎓 Computer and Network Engineering Graduate                                         
 - 💻 Interested in Programming, Networking, and Cybersecurity                          
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
-- 🎮 Want to play Mobile Legends Bang Bang together? Follow my account TearsAchlyツ
 
 #### 📚 Currently Learning
 
