@@ -5,31 +5,20 @@
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 
 #### 📚 Currently Learning
-
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![Ajax](https://img.shields.io/badge/-Ajax-61DAFB?style=flat-square&logo=Ajax&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
-## 🔧 Tech-Tools & Certs-Achv 🌟
+## 🌟 Certs-Achv 
 
 <p align="center">
   <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
     <img src="https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg?style=for-the-badge" alt="Wakatime Badge">
   </a>
 </p>
-
-#### 🧑🏼‍💻 Web Development
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)](https://nginx.org/)
-[![DB Browser](https://img.shields.io/badge/-DB%20Browser-005C99?style=flat-square&logo=DB%20Browser&logoColor=white)](https://sqlitebrowser.org/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=orange)](https://www.postman.com/)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)](https://vercel.com/)
 
 #### 🌐 Networking
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
