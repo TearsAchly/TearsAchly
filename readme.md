@@ -31,16 +31,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)](https://vercel.com/)
 
-#### 🕷️ Ethical Hacking
-[![Linux](https://img.shields.io/badge/-Linux-000080?style=flat-square&logo=Linux&logoColor=white)](https://www.linux.org/)
-[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=Kali-Linux&logoColor=white)](https://www.kali.org/)
-[![Web Shells](https://img.shields.io/badge/-Web_Shells-FF4136?style=flat-square&logo=Shell&logoColor=white)](https://owasp.org/www-community/attacks/Web_Shell)
-[![SQLmap](https://img.shields.io/badge/-SQLmap-D65300?style=flat-square&logo=SQLmap&logoColor=white)](https://sqlmap.org/)
-[![Nmap](https://img.shields.io/badge/-Nmap-0077CC?style=flat-square&logo=Nmap&logoColor=white)](https://nmap.org/)
-[![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF4088?style=flat-square&logo=Burp-Suite&logoColor=white)](https://portswigger.net/burp)
-[![wfuzz](https://img.shields.io/badge/-wfuzz-91CC61?style=flat-square&logo=wfuzz&logoColor=white)](https://github.com/xmendez/wfuzz)
-[![WPScan](https://img.shields.io/badge/-WPScan-444?style=flat-square&logo=WPScan&logoColor=white)](https://wpscan.com/)
-
 #### 🌐 Networking
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
