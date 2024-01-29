@@ -40,7 +40,7 @@
 #### Back-End Developer Learning Path
 [![Cloud Practitioner Essentials AWS](https://img.shields.io/badge/-Cloud_Practitioner_Essentials_AWS-F0DB4F?style=flat-square)](https://www.dicoding.com/certificates/07Z68RWMRXQR)
 [![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
-[![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-F39C12?style=flat-square)](https://www.dicoding.com/certificates/MRZMLQ2MRXYQ)
+[![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-F39C12?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
 
 #### Data Scientist
 [![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
