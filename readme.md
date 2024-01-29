@@ -36,7 +36,7 @@ Feel free to customize the badges and links according to your preferences.
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
 [![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
 [![Belajar Membuat Front-End Web untuk Pemula](https://img.shields.io/badge/-Front_End_for_Beginners-F39C12?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
-[![Belajar Fundamental Front-End Web Development](https://img.shields.io/badge/-Fundamental_Front-End_Web_Development-ADD8E6?style=flat-square)]([https://www.dicoding.com/certificates/4EXG460L1PRL](https://www.dicoding.com/certificates/MRZM8NE0NZYQ))
+[![Belajar Fundamental Front-End Web Development](https://img.shields.io/badge/-Fundamental_Front-End_Web_Development-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/MRZM8NE0NZYQ)
 
 [![Structured Query Language (SQL) Basics](https://img.shields.io/badge/-SQL_Basics-E34F26?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
 [![Python Programming Basics](https://img.shields.io/badge/-Python_Programming-4CAF50?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQNKQZ65)
