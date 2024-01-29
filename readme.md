@@ -4,7 +4,7 @@
 - 💻 Interested in Programming, Networking, and Cybersecurity                          
 - 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 
-#### 📚 Currently Learning 
+### 📚 Currently Learning 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://www.ecma-international.org/ecma-262/6.0/)
@@ -17,7 +17,7 @@
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
-#### 📜 Certifications & Achievements
+### 📜 Certifications & Achievements
 
 <p align="center">
   <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
