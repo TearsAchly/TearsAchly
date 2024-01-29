@@ -7,7 +7,7 @@
 ## 📚 Currently Learning
 
 ### Programming Languages
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- ![HTML][(https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - ![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) [Python](https://www.python.org/)
