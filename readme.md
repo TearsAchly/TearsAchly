@@ -12,8 +12,12 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
+[![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows_Subsystem_for_Linux-FF7F50?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
-## 🌟 Certs-Achv 
+#### 📜 Certifications & Achievements
 
 <p align="center">
   <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
@@ -23,12 +27,6 @@
 
 #### 🌐 Networking
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
-[![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
-[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
-[![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows_Subsystem_for_Linux-FF7F50?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
-[![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
-
-#### 📜 Certifications & Achievements
 
 ##### Front-End Web Learning Path
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
