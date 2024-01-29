@@ -31,6 +31,7 @@ Feel free to customize the badges and links according to your preferences.
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
 #### 📜 Certifications & Achievements 
+[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 
 #### Front-End Web Learning Path
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
@@ -38,13 +39,17 @@ Feel free to customize the badges and links according to your preferences.
 [![Belajar Membuat Front-End Web untuk Pemula](https://img.shields.io/badge/-Front_End_for_Beginners-F39C12?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
 [![Belajar Fundamental Front-End Web Development](https://img.shields.io/badge/-Fundamental_Front_End_Web_Development-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/MRZM8NE0NZYQ)
 
+#### Back-End Developer Learning Path
+[![Cloud Practitioner Essentials AWS](https://img.shields.io/badge/-Cloud_Practitioner_Essentials_AWS-F0DB4F?style=flat-square)](https://www.dicoding.com/certificates/07Z68RWMRXQR)
+[![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
+[![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-F39C12?style=flat-square)](https://www.dicoding.com/certificates/MRZMLQ2MRXYQ)
+
+#### Data Scientist
+[![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
 [![Structured Query Language (SQL) Basics](https://img.shields.io/badge/-SQL_Basics-E34F26?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
 [![Python Programming Basics](https://img.shields.io/badge/-Python_Programming-4CAF50?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQNKQZ65)
-[![Responsive Web Design](https://img.shields.io/badge/-Responsive_Web_Design-4CAF50?style=flat-square)](https://www.freecodecamp.org/certification/TearsAchly/responsive-web-design)
-[![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-F39C12?style=flat-square)](https://www.dicoding.com/certificates/MRZMLQ2MRXYQ)
-[![Cloud Practitioner Essentials AWS](https://img.shields.io/badge/-Cloud_Practitioner_Essentials_AWS-F0DB4F?style=flat-square)](https://www.dicoding.com/certificates/07Z68RWMRXQR)
-[![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
-[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
+
+
 
 
 
