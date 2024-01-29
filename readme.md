@@ -11,7 +11,7 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![ECMAScript 6](https://img.shields.io/badge/CMAScript%2067DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://www.ecma-international.org/ecma-262/6.0/)
 [![Node.js](https://.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![npm](https://imgshields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Browser Object odel (BOM)](https://img.shields.io/badge/-Browser%20Object%20Model-1572B6?style=flat-square&logo=Mozilla%20Firefox&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API)
 [![Document  Model (DOM)](https://img.shields.io/badge/-Document%20Object%20Model-61DAFB?style=flat-square&logo=W3C&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
