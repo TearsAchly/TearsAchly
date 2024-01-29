@@ -7,9 +7,8 @@
 #### 📚 Currently Learning
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://www.ecma-international.org/ecma-262/6.0/)
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Browser Object odel (BOM)](https://img.shields.io/badge/-Browser%20Object%20Model-1572B6?style=flat-square&logo=Mozilla%20Firefox&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API)
