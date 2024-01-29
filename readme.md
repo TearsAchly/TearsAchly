@@ -11,10 +11,6 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Browser Object odel (BOM)](https://img.shields.io/badge/-Browser%20Object%20Model-1572B6?style=flat-square&logo=Mozilla%20Firefox&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API)
-[![Document  Model (DOM)](https://img.shields.io/badge/-Document%20Object%20Model-61DAFB?style=flat-square&logo=W3C&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
-Feel free to customize the badges and links according to your preferences.
 
 ## 🌟 Certs-Achv 
 
@@ -25,6 +21,7 @@ Feel free to customize the badges and links according to your preferences.
 </p>
 
 #### 🌐 Networking
+[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows_Subsystem_for_Linux-FF7F50?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
