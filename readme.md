@@ -13,8 +13,6 @@
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
-[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
-[![Windows Subsystem for Linux](https://img.shields.io/badge/-Windows_Subsystem_for_Linux-FF7F50?style=flat-square&logo=Linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
 #### 📜 Certifications & Achievements
