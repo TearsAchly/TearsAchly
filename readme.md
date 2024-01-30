@@ -5,6 +5,12 @@
 
 ## 📚 Currently Learning
 
+<p align="center">
+  <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
+    <img src="https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg?style=for-the-badge" alt="Wakatime Badge">
+  </a>
+</p>
+
 ### Programming Languages
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -20,11 +26,6 @@
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
 ## 📜 Dicoding Academy Certifications
-<p align="center">
-  <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
-    <img src="https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg?style=for-the-badge" alt="Wakatime Badge">
-  </a>
-</p>
 
 #### Networking
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
