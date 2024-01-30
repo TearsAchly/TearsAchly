@@ -29,6 +29,7 @@
 
 #### Networking
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/4EXG460L1PRL)
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
 #### Front-End Web Learning Path
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
 [![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
@@ -42,4 +43,3 @@
 [![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
 [![Structured Query Language (SQL) Basics](https://img.shields.io/badge/-SQL_Basics-E34F26?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
 [![Python Programming Basics](https://img.shields.io/badge/-Python_Programming-4CAF50?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQNKQZ65)
-![Badge](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
