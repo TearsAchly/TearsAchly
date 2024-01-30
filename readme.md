@@ -1,11 +1,7 @@
 # Hi, I'm TearsAchly 👋
 
 - 🎓 Computer and Network Engineering Graduate
-- ![Programming](https://img.shields.io/badge/Programming-008080?style=flat-square)
-- ![Networking](https://img.shields.io/badge/Networking-3498DB?style=flat-square)
-- ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=flat-square)
-
-- ✉️ Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
+- Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
 
 ## 📚 Currently Learning
 
