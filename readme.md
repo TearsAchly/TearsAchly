@@ -32,12 +32,12 @@
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
 #### Front-End Web Learning Path
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
-[![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
+[![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/98XWVRR24PM3)
 [![Belajar Membuat Front-End Web untuk Pemula](https://img.shields.io/badge/-Front_End_for_Beginners-F39C12?style=flat-square)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
 [![Belajar Fundamental Front-End Web Development](https://img.shields.io/badge/-Fundamental_Front_End_Web_Development-ADD8E6?style=flat-square)](https://www.dicoding.com/certificates/MRZM8NE0NZYQ)
 #### Back-End Developer Learning Path
 [![Cloud Practitioner Essentials AWS](https://img.shields.io/badge/-Cloud_Practitioner_Essentials_AWS-F0DB4F?style=flat-square)](https://www.dicoding.com/certificates/07Z68RWMRXQR)
-[![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
+[![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-F7DF1E?style=flat-square)](https://www.dicoding.com/certificates/98XWVRR24PM3)
 [![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-F39C12?style=flat-square)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
 #### Data Scientist
 [![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/53XE44WGYZRN)
