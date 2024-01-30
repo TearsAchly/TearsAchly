@@ -1,6 +1,6 @@
 # Hi, I'm TearsAchly 👋
 
-- 🎓 Computer and Network Engineering Graduate
+- Computer and Network Engineering Graduate 👨‍🎓
 - Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
 
 ## 📚 Currently Learning
