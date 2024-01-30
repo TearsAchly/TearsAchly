@@ -1,4 +1,4 @@
-# Hi, I'm TearsAchly 👋
+[# Hi, I'm TearsAchly 👋](https://github.com/TearsAchly/)
 
 - 🎓 Computer and Network Engineering Graduate
 - 💻 Interested in Programming, Networking, and Cybersecurity
