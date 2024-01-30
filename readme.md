@@ -1,8 +1,8 @@
-[# Hi, I'm TearsAchly 👋](https://github.com/TearsAchly/)
+# Hi, I'm TearsAchly 👋
 
 - 🎓 Computer and Network Engineering Graduate
 - 💻 Interested in Programming, Networking, and Cybersecurity
-- 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)
+- 🤝 Let's connect: [Email](mailto:xlucifer0734@gmail.com)|[github](https://github.com/TearsAchly/)
 
 ## 📚 Currently Learning
 
