@@ -1,10 +1,9 @@
-- 👋 Hi, I’m TearsAchly (Not real name), Computer and Network Engineering Graduate 👨‍🎓
+- 👋 Hi, I’m  [![TearsAchly]()](https://github.com/TearsAchly/) (Not real name), Computer and Network Engineering Graduate 👨‍🎓
 - 👀  I’m interested in CyberSecurity, Programming, and Networking
-- ✉️ Let's connect: [![Email](](mailto:xlucifer0734@gmail.com) [![GitHub]()](https://github.com/TearsAchly/)
-
+- ✉️ Let's connect: [![Email](](mailto:xlucifer0734@gmail.com)
 <hr>
 
-##### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
+- ##### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -23,7 +22,7 @@
 
 <hr>
 
-#### 📜 Certifications :
+ - #### 📜 Certifications :
 
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=for-the-badge&logo=Dicoding&logoColor=white)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-8A2BE2?style=for-the-badge&logo=Cisco&logoColor=white)](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
