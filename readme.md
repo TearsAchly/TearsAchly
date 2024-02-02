@@ -1,4 +1,5 @@
-- <span style="font-size:0.5em;">👋 Hi, I’m TearsAchly (Not real name), Computer and Network Engineering Graduate 👨‍🎓</span>
+<span style="font-size: calc(0.5em + 1vw);">👋 Hi, I’m TearsAchly (Not real name), Computer and Network Engineering Graduate 👨‍🎓</span>
+
 - 👀 I’m interested in CyberSecurity, Programming, and Networking 
 - ✉️ Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) [![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
 
@@ -25,7 +26,7 @@
 
 #### 📜 Certifications :
 
-[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-squar&logo=Dicoding&logoColor=whitee)](https://www.dicoding.com/certificates/4EXG460L1PRL)
+[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-square&logo=Dicoding&logoColor=white)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
 [![Networking Basics](https://img.shields.io/badge/Networking_Basics-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/6d36be8a-33fc-461c-8931-559a530cffbf)
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-3498DB?style=flat-square)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
