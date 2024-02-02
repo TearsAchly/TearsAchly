@@ -19,9 +19,6 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-FFA500?style=flat-square&logo=jupyter&logoColor=black)](https://jupyter.org/)
 [![kali](https://img.shields.io/badge/-kali-3776AB?style=flat-square&logo=kalilinux&logoColor=white)](https://kali.org/)
 
-
-
-
 ## 📜 Certifications
 
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-squar&logo=Dicoding&logoColor=whitee)](https://www.dicoding.com/certificates/4EXG460L1PRL)
