@@ -27,7 +27,7 @@
 
 ### 📜 Certifications 
  - ##### Dicoding Academy
-[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-2d3e50?style=for-the-badge&logo=Dicoding&logoColor=white)](https://www.dicoding.com/certificates/4EXG460L1PRL)
+[![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-2d3e50?style=for-the-badge&logo=D&logoColor=white)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
 [![Belajar Dasar Pemrograman JavaScript](https://img.shields.io/badge/-JavaScript_Programming_Basics-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/98XWVRR24PM3)
 [![Belajar Membuat Front-End Web untuk Pemula](https://img.shields.io/badge/-Front_End_for_Beginners-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/MRZMLQ2MRXYQ)
