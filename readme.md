@@ -1,6 +1,10 @@
-- 👋 Hi, I’m  [![TearsAchly]()](https://github.com/TearsAchly/) (Not real name), Computer and Network Engineering Graduate 👨‍🎓
-- 👀  I’m interested in CyberSecurity, Programming, and Networking
-- ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com)
+👋 Hi, I’m [TearsAchly](https://github.com/TearsAchly/) (Not real name), a Computer and Network Engineering Graduate 👨‍🎓 at [SMKN 5 Samarinda](https://smkn5smd.sch.id).
+
+🌟 **About Me:**
+- 👀 I’m interested in CyberSecurity, Programming, and Networking.
+- 💼 Currently exploring opportunities in the tech industry.
+- ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com).
+
 <hr>
 
 - ##### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
@@ -10,7 +14,7 @@
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/)
-[![C](https://img.shields.io/badge/-C-4479A1?style=for-the-badge&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))<br>
+[![C](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))<br>
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
