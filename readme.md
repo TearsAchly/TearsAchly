@@ -5,8 +5,9 @@
 <hr>
 
 #### 🌱 Currently Learning
-##### Programming Languages & Tools and Technologies
 <hr>
+
+##### Programming Languages & Tools and Technologies
 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -23,7 +24,9 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-FFA500?style=flat-square&logo=jupyter&logoColor=black)](https://jupyter.org/)
 [![kali](https://img.shields.io/badge/-kali-3776AB?style=flat-square&logo=kalilinux&logoColor=white)](https://kali.org/)
 
-## 📜 Certifications
+<hr>
+
+#### 📜 Certifications
 
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-squar&logo=Dicoding&logoColor=whitee)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
