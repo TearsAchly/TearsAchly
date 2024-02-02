@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  [![TearsAchly]()](https://github.com/TearsAchly/) (Not real name), Computer and Network Engineering Graduate 👨‍🎓
 - 👀  I’m interested in CyberSecurity, Programming, and Networking
-- ✉️ Let's connect: [![Email](](mailto:xlucifer0734@gmail.com)
+- ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com)
 <hr>
 
 - ##### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
