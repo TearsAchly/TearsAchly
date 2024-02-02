@@ -11,7 +11,7 @@
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/)
-[![C](https://img.shields.io/badge/-C-4479A1?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/-C-4479A1?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))<br>
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
