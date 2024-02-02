@@ -1,9 +1,9 @@
  👋 Hi, I’m TearsAchly (Not real name), Computer and Network Engineering Graduate 👨‍🎓 <br>
  👀 I’m interested in CyberSecurity, Programming, and Networking <br>
- Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) [![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
+ ✉️ Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) [![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
 
-## 📚 Currently Learning
-### Programming Languages & Tools and Technologies
+#### 🌱 Currently Learning
+##### Programming Languages & Tools and Technologies
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
