@@ -41,4 +41,4 @@
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-6abf4b?style=for-the-badge&logo=Cisco&logoColor=2d3e50)](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
 [![Networking Basics](https://img.shields.io/badge/Networking_Basics-6abf4b?style=for-the-badge&logo=Cisco&logoColor=2d3e50)](https://www.credly.com/badges/6d36be8a-33fc-461c-8931-559a530cffbf)
 - ##### FreeCodeCamp
-[![Responsive Web Design](https://img.shields.io/badge/Networking_Basics-0b0a23?style=for-the-badge&logo=freecodecamp&logoColor=2d3e50)](https://www.credly.com/badges/6d36be8a-33fc-461c-8931-559a530cffbf)
+[![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-1b1b32?style=for-the-badge&logo=freecodecamp&logoColor=2d3e50)](https://www.freecodecamp.org/certification/TearsAchly/responsive-web-design)
