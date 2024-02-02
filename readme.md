@@ -6,7 +6,7 @@
 - ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com).
 <hr>
 
-- ##### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
+- ### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -23,7 +23,7 @@
 [![kali](https://img.shields.io/badge/-kali-3776AB?style=for-the-badge&logo=kalilinux&logoColor=white)](https://kali.org/)
 <hr>
 
- - #### 📜 Certifications :
+ - ### 📜 Certifications :
 ##### Dicoding Academy
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-2d3e50?style=for-the-badge&logo=Dicoding&logoColor=white)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
