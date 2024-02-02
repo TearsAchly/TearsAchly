@@ -16,7 +16,7 @@
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-2E64FE?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-2E64FE?style=flat-square&logo=jupyter&logoColor=orang)](https://jupyter.org/)
 
 ## 📜 Certifications
 
