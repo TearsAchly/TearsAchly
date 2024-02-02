@@ -5,17 +5,11 @@
 
 ## 📚 Currently Learning
 
-<p align="center">
-  <a href="https://wakatime.com/@018c73ed-9ad6-4156-8adf-3f7a537e6f32">
-    <img src="https://wakatime.com/badge/user/018c73ed-9ad6-4156-8adf-3f7a537e6f32.svg?style=for-the-badge" alt="Wakatime Badge">
-  </a>
-</p>
-
 ### Programming Languages
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/)
 [![C](https://img.shields.io/badge/-C-4479A1?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 ### Tools and Technologies
@@ -26,7 +20,7 @@
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-8A2BE2?style=flat-square&logo=Cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-2E64FE?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
-## 📜 Dicoding Academy Certifications
+## 📜 Certifications
 
 #### Networking
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-ADD8E6?style=flat-squar&logo=Dicoding&logoColor=whitee)](https://www.dicoding.com/certificates/4EXG460L1PRL)
