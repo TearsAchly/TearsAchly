@@ -1,12 +1,11 @@
 👋 Hi, I’m [TearsAchly](https://github.com/TearsAchly/) (Not real name), a Computer and Network Engineering Graduate 👨‍🎓 at [SMKN 5 Samarinda](https://smkn5smd.sch.id).
-
-🌟 **About Me:**
+🌟 **About Me**
 - 👀 I’m interested in CyberSecurity, Programming, and Networking.
 - 💼 Currently exploring opportunities in the tech industry.
 - ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com).
 <hr>
 
-### 🌱 Currently Learning :
+### 🌱 Currently Learning 
 - ##### Programming Languages
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -25,7 +24,7 @@
 [![kali](https://img.shields.io/badge/-kali-3776AB?style=for-the-badge&logo=kalilinux&logoColor=white)](https://kali.org/)
 <hr>
 
-### 📜 Certifications :
+### 📜 Certifications 
  - ##### Dicoding Academy
 [![Computer Networks for Beginners](https://img.shields.io/badge/-Computer_Networks_for_Beginners-2d3e50?style=for-the-badge&logo=Dicoding&logoColor=white)](https://www.dicoding.com/certificates/4EXG460L1PRL)
 [![Belajar Dasar Pemrograman Web](https://img.shields.io/badge/-Web_Programming_Basics-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/QLZ9RK4O9P5D)
