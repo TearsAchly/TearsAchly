@@ -7,7 +7,7 @@
 
 ##### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
 
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow&labelColor=black)](https://www.python.org/)
