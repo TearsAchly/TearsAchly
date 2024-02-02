@@ -4,7 +4,7 @@
 
 <hr>
 
-##### 🌱 Currently Learning : Programming Languages & Tools and Technologies used
+##### 🌱 Currently Learning : Programming Languages & Tools and Technologies 
 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
