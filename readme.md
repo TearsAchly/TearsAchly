@@ -1,6 +1,6 @@
- 👋 Hi, I’m TearsAchly (Not real name), Computer and Network Engineering Graduate 👨‍🎓 <br>
- 👀 I’m interested in CyberSecurity, Programming, and Networking <br>
- ✉️ Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) [![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
+- 👋 Hi, I’m TearsAchly (Not real name), Computer and Network Engineering Graduate 👨‍🎓 
+- 👀 I’m interested in CyberSecurity, Programming, and Networking 
+- ✉️ Let's connect: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xlucifer0734@gmail.com) [![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/TearsAchly/)
 
 <hr>
 
