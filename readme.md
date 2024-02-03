@@ -1,4 +1,4 @@
-👋 Hi, I’m [TearsAchly](https://github.com/TearsAchly/) (Not real name), a Computer and Network Engineering Graduate 👨‍🎓 at [SMKN 5 Samarinda](https://smkn5smd.sch.id).
+👋 Hi, I’m [TearsAchly](https://github.com/TearsAchly/) (Not real name), Computer and Network Engineering Graduate 👨‍🎓 at [SMKN 5 Samarinda](https://smkn5smd.sch.id).
 
 🌟 **About Me**
 - 👀 I’m interested in CyberSecurity, Programming, and Networking.
