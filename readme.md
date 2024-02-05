@@ -36,7 +36,7 @@
 [![Back-End Applications for Beginners](https://img.shields.io/badge/-Back_End_Applications-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/N9ZO57M16PG5)
 [![Data Science Basics](https://img.shields.io/badge/-Data_Science_Basics-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/53XE44WGYZRN)
 [![Structured Query Language (SQL) Basics](https://img.shields.io/badge/-SQL_Basics-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/0LZ0QQ1MRZ65)
-[![Python Programming Basics](https://img.shields.io/badge/-Python_Programming-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/0LZ0QQNKQZ6)
+[![Python Programming Basics](https://img.shields.io/badge/-Python_Programming-2d3e50?style=for-the-badge)](https://www.dicoding.com/certificates/0LZ0QQNKQZ65)
  - ##### Cisco Networking Academy
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-6abf4b?style=for-the-badge&logo=Cisco&logoColor=2d3e50)](https://www.credly.com/badges/94171e76-1e0c-400a-a3b7-bfcbf4c98a1e)
 [![Networking Basics](https://img.shields.io/badge/Networking_Basics-6abf4b?style=for-the-badge&logo=Cisco&logoColor=2d3e50)](https://www.credly.com/badges/6d36be8a-33fc-461c-8931-559a530cffbf)
