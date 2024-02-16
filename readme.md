@@ -2,11 +2,13 @@
 
 🌟 **About Me**
 - 👀 I’m interested in CyberSecurity, Programming, and Networking.
+
 - 💼 Currently exploring opportunities in the tech industry.
 - ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com).
 <hr>
 
 ### 🌱 Currently Learning 
+**My Learning Journey Notes in Cybersecurity**: [Click here](https://roadmap.sh/cyber-security?s=6534c8a0b5d7a4eb01f4b6cc)
 - ##### Programming Languages
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
