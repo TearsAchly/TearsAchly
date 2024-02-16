@@ -1,7 +1,7 @@
 👋 Hi, I’m [TearsAchly](https://github.com/TearsAchly/) (Not real name), Computer and Network Engineering Graduate 👨‍🎓 
 
 🌟 **About Me**
-- 👀 I’m interested in [CyberSecurity[Click here](https://roadmap.sh/cyber-security?s=6534c8a0b5d7a4eb01f4b6cc)], Programming, and Networking.
+- 👀 I’m interested in [CyberSecurity](https://roadmap.sh/cyber-security?s=6534c8a0b5d7a4eb01f4b6cc), Programming, and Networking.
 
 - 💼 Currently exploring opportunities in the tech industry.
 - ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com).
