@@ -4,7 +4,7 @@
 - 👀 I’m interested in [CyberSecurity](https://roadmap.sh/cyber-security?s=6534c8a0b5d7a4eb01f4b6cc), Programming, and Networking.
 
 - 💼 Currently exploring opportunities in the tech industry.
-- ✉️ Let's connect: [Email](mailto:xlucifer0734@gmail.com).
+- ✉️ How to reach me on : [Email](mailto:xlucifer0734@gmail.com).
 <hr>
 
 ### 🌱 Currently Learning 
