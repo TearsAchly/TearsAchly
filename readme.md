@@ -5,10 +5,11 @@
 
 - 💼 Currently exploring opportunities in the tech industry.
 - ✉️ How to reach me on : <br>
-  [Email](mailto:xlucifer0734@gmail.com)
-  [![Dicoding Indonesia Academy](https://img.shields.io/badge/-Dicoding_Indonesia_Academy-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
-  [wakatime](https://wakatime.com/@TearsAchly)<br>
-  [Cisco](https://www.credly.com/users/tearsachly/badges)<br>
+[![Email](https://img.shields.io/badge/Email-xlucifer0734%40gmail.com-blue?style=for-the-badge)](mailto:xlucifer0734@gmail.com)
+[![Dicoding Indonesia Academy](https://img.shields.io/badge/-Dicoding_Indonesia_Academy-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
+[![wakatime](https://wakatime.com/badge/user/19183770/project/ProjectID.svg)](https://wakatime.com/@TearsAchly)
+[![Cisco](https://www.credly.com/users/tearsachly/badges)](https://www.credly.com/users/tearsachly/badges)
+
 <hr>
 
 ### 🌱 Currently Learning 
