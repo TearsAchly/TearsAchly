@@ -7,7 +7,7 @@
 - ✉️ How to reach me on : <br>
 [![Email](https://img.shields.io/badge/Email-xlucifer0734%40gmail.com-blue?style=for-the-badge)](mailto:xlucifer0734@gmail.com)
 [![Dicoding Indonesia Academy](https://img.shields.io/badge/-Dicoding_Indonesia_Academy-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
-[![Wakatime](https://img.shields.io/badge/Wakatime?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@TearsAchly)
+[![Wakatime](https://img.shields.io/badge/Wakatime-black?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@TearsAchly)
 [![Cisco Badges](https://img.shields.io/badge/Cisco-Badges-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/tearsachly/badges)
 
 
