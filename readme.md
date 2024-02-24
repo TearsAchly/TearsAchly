@@ -2,9 +2,8 @@
 
 🌟 **About Me**
 - 👀 I’m interested in [CyberSecurity](https://roadmap.sh/cyber-security?s=6534c8a0b5d7a4eb01f4b6cc), Programming, and Networking.
-
 - 💼 Currently exploring opportunities in the tech industry.
-- How to reach me on : <br>
+- You can reach me at : <br>
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tearsachly@gmail.com)
 [![Dicoding Indonesia Academy](https://img.shields.io/badge/-Dicoding_Indonesia_Academy-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
 [![Wakatime](https://img.shields.io/badge/Wakatime-grey?style=for-the-badge&logo=wakatime&logoColor=black)](https://wakatime.com/@TearsAchly)
