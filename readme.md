@@ -4,8 +4,8 @@
 - 👀 I’m interested in [CyberSecurity](https://roadmap.sh/cyber-security?s=6534c8a0b5d7a4eb01f4b6cc), Programming, and Networking.
 
 - 💼 Currently exploring opportunities in the tech industry.
-- ✉️ How to reach me on :
-  [Email](mailto:xlucifer0734@gmail.com).
+- ✉️ How to reach me on : <br>
+  [Email](mailto:xlucifer0734@gmail.com)<br>
   [Dicoding Indonesia Academy](https://www.dicoding.com/users/tearsachly/academies)
 <hr>
 
