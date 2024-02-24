@@ -6,7 +6,7 @@
 - 💼 Currently exploring opportunities in the tech industry.
 - ✉️ How to reach me on : <br>
   [Email](mailto:xlucifer0734@gmail.com)
-  [![Dicoding Indonesia Academy](https://img.shields.io/badge/-Computer_Networks_for_Beginners-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
+  [![Dicoding Indonesia Academy](https://img.shields.io/badge/-Dicoding_Indonesia_Academy-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
   [wakatime](https://wakatime.com/@TearsAchly)<br>
   [Cisco](https://www.credly.com/users/tearsachly/badges)<br>
 <hr>
