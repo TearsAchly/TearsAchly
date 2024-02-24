@@ -4,8 +4,8 @@
 - 👀 I’m interested in [CyberSecurity](https://roadmap.sh/cyber-security?s=6534c8a0b5d7a4eb01f4b6cc), Programming, and Networking.
 
 - 💼 Currently exploring opportunities in the tech industry.
-- ✉️ How to reach me on : <br>
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:xlucifer0734@gmail.com)
+- How to reach me on : <br>
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=envelope&logoColor=white)](mailto:xlucifer0734@gmail.com)
 [![Dicoding Indonesia Academy](https://img.shields.io/badge/-Dicoding_Indonesia_Academy-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
 [![Wakatime](https://img.shields.io/badge/Wakatime-grey?style=for-the-badge&logo=wakatime&logoColor=black)](https://wakatime.com/@TearsAchly)
 [![Cisco Badges](https://img.shields.io/badge/Cisco-Badges-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/tearsachly/badges)
