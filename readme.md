@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tearsachly@gmail.com)
 [![Dicoding Indonesia Academy](https://img.shields.io/badge/-Dicoding_Indonesia_Academy-2d3e50?style=for-the-badge&logo=&logoColor=white)](https://www.dicoding.com/users/tearsachly/academies)
 [![Wakatime](https://img.shields.io/badge/Wakatime-grey?style=for-the-badge&logo=wakatime&logoColor=black)](https://wakatime.com/@TearsAchly)
-[![Cisco](https://img.shields.io/badge/Cisco-green?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/tearsachly/badges)
+[![Cisco](https://img.shields.io/badge/Cisco-green?style=for-the-badge&logo=cisco&logoColor=black)](https://www.credly.com/users/tearsachly/badges)
 
 
 <hr>
