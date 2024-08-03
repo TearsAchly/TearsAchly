@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TearsAchly
 - 👀 I’m interested in networking, programming and passionate about cybersecurity.
-- 💞️ I want to collaborate with your heart, hihi.
 
 <!-- 
 - 🌱 I'm currently studying, which I have included in the Certifications and Courses section.
